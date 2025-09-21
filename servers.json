@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "US 8",
+            "name": "Wifi DDos",
             "host": "51.81.167.179",
             "port": 7785
         },
